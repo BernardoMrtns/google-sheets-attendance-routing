@@ -196,7 +196,6 @@ DISTANCES Table: This internal table must be maintained by you with the referenc
 
 License
 This project is licensed under the MIT License — see the LICENSE file for details.
-(You'll need to create a file named LICENSE in your GitHub repository and put the MIT License text into it. You can easily find MIT License templates online).
 
 //###################################################################################//
 
